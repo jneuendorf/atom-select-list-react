@@ -1,0 +1,5 @@
+.DS_Store
+.imdone
+*.log
+dist
+node_modules
