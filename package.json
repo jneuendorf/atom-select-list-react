@@ -1,6 +1,6 @@
 {
     "name": "atom-select-list-react",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "main": "dist/bundle.js",
     "repository": "https://github.com/jneuendorf/atom-select-list-react.git",
     "author": {
